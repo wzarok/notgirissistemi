@@ -1,0 +1,11 @@
+C:\Users\serha\source\repos\PROJE\bin\Release\PROJE.exe.config
+C:\Users\serha\source\repos\PROJE\bin\Release\PROJE.exe
+C:\Users\serha\source\repos\PROJE\bin\Release\PROJE.pdb
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.csproj.AssemblyReference.cache
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.Form1.resources
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.frmogrencinotlar.resources
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.Properties.Resources.resources
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.csproj.GenerateResource.cache
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.exe
+C:\Users\serha\source\repos\PROJE\obj\Release\PROJE.pdb

@@ -1,0 +1,16 @@
+C:\Users\serha\source\repos\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\serha\source\repos\PROJE\bin\Debug\PROJE.exe
+C:\Users\serha\source\repos\PROJE\bin\Debug\PROJE.pdb
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.csproj.AssemblyReference.cache
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.Form1.resources
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.exe
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.pdb
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.frmogrencinotlar.resources
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.frmkulüp.resources
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.frmogretmen.resources
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.frmdersler.resources
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.fromogrenci.resources
+C:\Users\serha\source\repos\PROJE\obj\Debug\PROJE.frmsinav.resources
